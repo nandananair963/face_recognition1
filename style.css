@@ -1,0 +1,43 @@
+#camera,#result{
+    width: 300px;
+    height: 300px;
+    border-style: dotted;
+}
+
+.list{
+    width: 100px;
+    font-size:20px;
+    background-color:lightblue;
+    border-radius: 5px;
+}
+
+#list{
+    width: 100px;
+    font-size:20px;
+    background-color:lightpink;
+    border-radius: 5px;
+}
+
+body{
+    background-color: #e3e2df;
+    background-image: url("https://wallpaper.dog/large/5537524.jpg");
+}
+
+h1{
+    color: white;
+    font-family: 'MonteCarlo', cursive;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+h2{
+    color: white;
+}
+
+label{
+    width: 120px;
+    background-color: white;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
